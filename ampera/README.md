@@ -13,10 +13,10 @@ This is the official, built-in default theme for the **Monpyra Static Site Gener
 **Please do not edit this directory to build your own theme!** This directory contains the core fallback theme for the Monpyra installation. If you want to create a custom theme for your documentation project, please use our CLI scaffolding tool:
 
 ```bash
-pyra contribute themes
+pyra lab theme
 ```
 
 ## 📸 Theme Preview
 Contributions should include a screenshot in the `assets/` directory. Name your main preview `thumbnail.png` to ensure it is displayed correctly in the theme registry.
 
-That command will automatically clone the _monpyra-theme-template_ and set up a fresh development environment for you.
+That command will automatically clone the _theme-template_ and set up a fresh development environment for you.
