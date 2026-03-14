@@ -6,7 +6,7 @@ A curated collection of professional, high-performance themes for the **Monpyra 
 
 | Theme Name | Description | Preview |
 | :--- | :--- | :--- |
-| **Ampera** | The default powerhouse. Clean, fast, and documentation-focused. | [View](https://github.com/monpyra/themes/ampera) |
+| **Ampera** | The default powerhouse. Clean, fast, and documentation-focused. | [View](https://github.com/monpyra/themes/tree/main/ampera) |
 
 ## 📥 How to Use
 
